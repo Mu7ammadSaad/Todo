@@ -5,7 +5,7 @@ import App from './App';
 
 
 ReactDOM.render(
-  <App />,
+  <App title="The GitHub Cards App" />,
   document.getElementById('root')
 );
 
